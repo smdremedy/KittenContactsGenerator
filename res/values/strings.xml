@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kitten Contacts Generator</string>
+    <string name="generate_question">Do you want to add all those kittens?!</string>
+    <string name="ilovecats">Sure, I love cats!</string>
+    <string name="sure_question">"Are you sure?"</string>
+    <string name="yes">Yep</string>
+    <string name="no">Nooo</string>
+    <string name="count_question">How many kittens you want in address book?</string>
+    <string name="cute">Your address book is now cute :D</string>
+    <string name="wrong_format">Wrong kitten count format!</string>
+
+</resources>
